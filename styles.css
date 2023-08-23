@@ -1,6 +1,6 @@
 body {
     color: darkred;
-    background-color: beige;
+    background-color: #f5f5dc;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -20,4 +20,10 @@ img {
 
 ul {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 600px;
+    padding: 16px;
+    margin: auto;
 }
